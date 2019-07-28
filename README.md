@@ -1,7 +1,3 @@
-# Sankobot
-Rewritten
+# Sankobot JS
 
- - In commando
- 
- 
-  - - JS commando
+Rewritten in [commando](https://github.com/discordjs/Commando).
